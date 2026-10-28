@@ -1,0 +1,33 @@
+{
+  "best_model_per_category": {
+    "M01AB": "sarimax",
+    "M01AE": "sarimax",
+    "N02BA": "sarimax",
+    "N02BE": "xgboost",
+    "N05B": "sarimax",
+    "N05C": "sarimax",
+    "R03": "sarimax",
+    "R06": "sarimax"
+  },
+  "baseline_model": "snaive",
+  "mean_mae_improvement_pct": 26.196918190318634,
+  "mean_rmse_improvement_pct": 27.294047637529573,
+  "mean_smape_improvement_pct": 16.5795061566341,
+  "mean_mape_improvement_pct": 21.880091257989037,
+  "mean_best_mape": 75.72384118849229,
+  "mean_baseline_mape": 98.4261792258469,
+  "mean_best_smape": 66.41215371058811,
+  "mean_baseline_smape": 76.46237225971092,
+  "backtest_service_level": 0.95,
+  "fill_rate_baseline": 0.967678207232992,
+  "fill_rate_forecast": 0.980122514817424,
+  "stockout_days_baseline": 0.028502747252747252,
+  "stockout_days_forecast": 0.023351648351648352,
+  "lost_units_baseline": 740.6261599318423,
+  "lost_units_forecast": 455.4755247023438,
+  "avg_inventory_value_baseline": 25611.71546244017,
+  "avg_inventory_value_forecast": 23109.92618473763,
+  "stockout_day_reduction_pct": 18.072289156626496,
+  "lost_units_reduction_pct": 38.501291293267315,
+  "inventory_value_change_pct": -9.76814411893432
+}

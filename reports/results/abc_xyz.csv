@@ -1,0 +1,9 @@
+category,revenue,share,cum_share,abc,cv,xyz,class,policy
+R03,1625235.20833408,0.3152576780083694,0.3152576780083694,A,0.5946424597806589,Z,AZ,"High value, erratic: tight monitoring, higher safety stock, short order cycles, review forecasts often."
+N02BE,1134097.24875012,0.2199883828772858,0.5352460608856552,A,0.3636273297678843,Y,AY,"High value, variable: forecast-driven replenishment, moderate safety stock, weekly review."
+N05B,1117678.6805746665,0.21680356405680185,0.7520496249424571,A,0.3590317319708009,Y,AY,"High value, variable: forecast-driven replenishment, moderate safety stock, weekly review."
+M01AE,451254.025520815,0.08753274329039681,0.8395823682328539,A,0.25297983270484564,X,AX,"High value, stable: continuous review, lean safety stock, automate replenishment (JIT)."
+M01AB,371032.79791669,0.0719716984571503,0.9115540666900043,B,0.23846956708941452,X,BX,"Medium value, stable: periodic review with fixed order quantities (EOQ)."
+R06,183234.525,0.03554321896685876,0.947097285656863,B,0.5576693127567839,Z,BZ,"Medium value, erratic: buffer stock with caps, order on demand signals."
+N02BA,179788.598000022,0.034874789597971925,0.981972075254835,B,0.29422946588788984,X,BX,"Medium value, stable: periodic review with fixed order quantities (EOQ)."
+N05C,92938.63424402161,0.018027924745165017,1.0,C,0.7309569032509364,Z,CZ,"Low value, erratic: stock on request or small buffer; consider delisting if slow."

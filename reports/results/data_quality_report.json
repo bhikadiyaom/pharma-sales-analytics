@@ -1,0 +1,50 @@
+{
+  "rows_loaded": 16848,
+  "unparseable_dates": 0,
+  "date_range": [
+    "2014-01-02",
+    "2019-10-08"
+  ],
+  "categories": [
+    "M01AB",
+    "M01AE",
+    "N02BA",
+    "N02BE",
+    "N05B",
+    "N05C",
+    "R03",
+    "R06"
+  ],
+  "exact_duplicate_rows_removed": 0,
+  "duplicate_key_rows_aggregated": 0,
+  "calendar_days_missing_before_fill": 0,
+  "missing_values_imputed": 0,
+  "negative_values_set_missing_then_imputed": 0,
+  "outliers_capped_by_category": {
+    "M01AB": 0,
+    "M01AE": 0,
+    "N02BA": 0,
+    "N02BE": 0,
+    "N05B": 1,
+    "N05C": 6,
+    "R03": 0,
+    "R06": 0
+  },
+  "zero_sales_day_share": {
+    "M01AB": 0.019,
+    "M01AE": 0.017,
+    "N02BA": 0.037,
+    "N02BE": 0.012,
+    "N05B": 0.02,
+    "N05C": 0.679,
+    "R03": 0.23,
+    "R06": 0.122
+  },
+  "monthly_reconciliation": {
+    "months_compared": 70,
+    "median_abs_rel_diff": 0.0,
+    "share_within_1pct": 0.9024
+  },
+  "hourly_rows": 404256,
+  "is_synthetic": false
+}
